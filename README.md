@@ -1,7 +1,11 @@
 # flutter_reddit
  reddit clone
-#Instructions
+ ### Prerequisites
 
-packages get
+If you are new to Flutter, please first follow
+the [Flutter Setup](https://flutter.dev/setup/) guide.
 
-Flutter run
+### Building and installing the Flutter app
+
+* `flutter pub get`
+* `flutter run --release`
